@@ -1,0 +1,51 @@
+.service-modal {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+  padding: 3em;
+  width: 30vw;
+  /* height: 70vh; */
+}
+
+.select-car {
+  text-transform: uppercase;
+  border: 1px solid gray;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  font-weight: 500;
+  cursor: pointer;
+}
+.select-car:hover {
+  transform: scale(1.01);
+}
+
+.mobile-no {
+  text-transform: uppercase;
+  border: 1px solid gray;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+.mobile-no input {
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+}
+
+.mobile-no:hover {
+  transform: scale(1.01);
+}
+
+.check-price-btn:hover {
+  transform: scale(1.1);
+}
+
+.select-car input {
+  border: none;
+  outline: none;
+}
+
+.car-logo {
+  width: 70px;
+  height: 70px;
+}

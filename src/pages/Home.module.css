@@ -1,0 +1,9 @@
+.img-container {
+  width: 100vw;
+  height: 700px;
+  background-image: url("/src/assets/images/carService.png");
+}
+
+.home-content{
+ padding-left: 2em;
+}
